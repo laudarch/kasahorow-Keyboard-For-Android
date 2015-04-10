@@ -612,7 +612,12 @@
     <string name="azerty_keyboard">AZERTY</string>
     <string name="french_dictionary">French</string>
     <string name="fr_desc">French keyboard layout</string>
-    <string name="kik_desc">Kikuyu keyboard layout</string>
-    <string name="kik_keyboard">Kikuyu keyboard</string>
+    <string name="kik_desc">Gikuyu keyboard layout</string>
+    <string name="kik_keyboard">Gikuyu keyboard</string>
+    <string name="ibo_keyboard">Igbo keyboard</string>
+    <string name="ibo_desc">Igbo keyboard layout</string>
+    <string name="wol_keyboard">Wolof keyboard</string>
+    <string name="wol_desc">Wolof keyboard layout</string>
+    <string name="not_configured_with_click_here">kasahorow is not fully set-up for use. Click here to set up.</string>
 
 </resources>
